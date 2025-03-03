@@ -13,11 +13,11 @@
 
 ## 如何使用
 
-1. 安装插件：你可以通过Obsidian的社区插件市场搜索 "Remove Brackets Plugin" 进行安装，或者手动下载插件文件并将其放置在你的 vault 的插件文件夹中 (`.obsidian/plugins/remove-brackets-plugin`)。
+1. 安装插件：你可以通过Obsidian的社区插件市场搜索 "obsidian-one-click_clear_link" 进行安装，或者手动下载插件文件并将其放置在你的 vault 的插件文件夹中 (`.obsidian/plugins/obsidian-one-click_clear_link`)。
 2. 启用插件：在Obsidian设置中启用该插件。
 3. 使用：
     * 点击功能区上的 "x" 图标。
-    * 或者，打开命令面板 (Ctrl/Cmd + P)，搜索 "Remove Brackets and Content (Command)" 并执行。
+    * 或者，打开命令面板 (Ctrl/Cmd + P)，搜索 "obsidian-one-click_clear_link (Command)" 并执行。
 
 ## 开发
 
@@ -45,11 +45,11 @@ This plugin quickly removes `[[...]]` double brackets and their content from you
 
 ## How to Use
 
-1. Install the plugin: You can install this plugin via Obsidian's community plugin marketplace by searching for "Remove Brackets Plugin", or manually download the plugin files and place them in your vault's plugins folder (`.obsidian/plugins/remove-brackets-plugin`).
+1. Install the plugin: You can install this plugin via Obsidian's community plugin marketplace by searching for "obsidian-one-click_clear_link", or manually download the plugin files and place them in your vault's plugins folder (`.obsidian/plugins/obsidian-one-click_clear_link`).
 2. Enable the plugin: Enable the plugin in your Obsidian settings.
 3. Usage:
     * Click the "x" icon in the ribbon.
-    * Alternatively, open the command palette (Ctrl/Cmd + P), search for "Remove Brackets and Content (Command)", and execute.
+    * Alternatively, open the command palette (Ctrl/Cmd + P), search for "obsidian-one-click_clear_link (Command)", and execute.
 
 ## Development
 
