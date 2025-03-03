@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-one-click_clear_link",
+	"name": "obsidian-one-click_clear_link",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Removes [[...]] brackets and their content from a document.",
+	"author": "HuimingLuo·Tom6255",
+	"authorUrl": "https://github.com/Tom6255/obsidian-one-click_clear_link",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }

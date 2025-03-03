@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-one-click_clear_link",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Removes [[...]] brackets and their content from a document.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
