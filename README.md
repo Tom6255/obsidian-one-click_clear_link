@@ -13,11 +13,10 @@
 
 ## 如何使用
 
-1. 安装插件：你可以通过Obsidian的社区插件市场搜索 "obsidian-one-click_clear_link" 进行安装，或者手动下载插件文件并将其放置在你的 vault 的插件文件夹中 (`.obsidian/plugins/obsidian-one-click_clear_link`)。
+1. 安装插件：你可以通过Obsidian的社区插件市场搜索 "obsidian-remove_brackets_plugin" 进行安装，或者手动下载插件文件并将其放置在你的 vault 的插件文件夹中 (`.obsidian/plugins/obsidian-remove_brackets_plugin`)。
 2. 启用插件：在Obsidian设置中启用该插件。
 3. 使用：
     * 点击功能区上的 "x" 图标。
-    * 或者，打开命令面板 (Ctrl/Cmd + P)，搜索 "obsidian-one-click_clear_link (Command)" 并执行。
 
 ## 开发
 
@@ -26,7 +25,7 @@
 * TypeScript
 * Obsidian API
 
-源码可在GitHub上找到：[[obsidian-one-click_clear_link](https://github.com/Tom6255/obsidian-one-click_clear_link)]
+源码可在GitHub上找到：[[obsidian-remove_brackets_plugin](https://github.com/Tom6255/obsidian-remove_brackets_plugin)]
 
 ---
 
@@ -45,11 +44,11 @@ This plugin quickly removes `[[...]]` double brackets and their content from you
 
 ## How to Use
 
-1. Install the plugin: You can install this plugin via Obsidian's community plugin marketplace by searching for "obsidian-one-click_clear_link", or manually download the plugin files and place them in your vault's plugins folder (`.obsidian/plugins/obsidian-one-click_clear_link`).
+1. Install the plugin: You can install this plugin via Obsidian's community plugin marketplace by searching for "obsidian-remove_brackets_plugin", or manually download the plugin files and place them in your vault's plugins folder (`.obsidian/plugins/obsidian-remove_brackets_plugin`).
 2. Enable the plugin: Enable the plugin in your Obsidian settings.
 3. Usage:
     * Click the "x" icon in the ribbon.
-    * Alternatively, open the command palette (Ctrl/Cmd + P), search for "obsidian-one-click_clear_link (Command)", and execute.
+    * Alternatively, open the command palette (Ctrl/Cmd + P), search for "Remove Brackets and Content (Command)", and execute.
 
 ## Development
 
@@ -58,4 +57,4 @@ This plugin uses the following technologies:
 * TypeScript
 * Obsidian API
 
-Source code is available on GitHub: [[obsidian-one-click_clear_link](https://github.com/Tom6255/obsidian-one-click_clear_link)]
+Source code is available on GitHub: [[obsidian-remove_brackets_plugin](https://github.com/Tom6255/obsidian-remove_brackets_plugin)]

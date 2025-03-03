@@ -1,11 +1,11 @@
 {
-	"id": "obsidian-one-click_clear_link",
-	"name": "obsidian-one-click_clear_link",
+	"id": "obsidian-remove_brackets_plugin",
+	"name": "obsidian-remove_brackets_plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Removes [[...]] brackets and their content from a document.",
 	"author": "HuimingLuo·Tom6255",
-	"authorUrl": "https://github.com/Tom6255/obsidian-one-click_clear_link",
+	"authorUrl": "https://github.com/Tom6255/obsidian-remove_brackets_plugin",
 	"fundingUrl": "",
 	"isDesktopOnly": false
 }

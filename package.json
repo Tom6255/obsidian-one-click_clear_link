@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-one-click_clear_link",
+	"name": "obsidian-remove_brackets_plugin",
 	"version": "1.0.0",
 	"description": "Removes [[...]] brackets and their content from a document.",
 	"main": "main.js",
