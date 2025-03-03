@@ -1,6 +1,6 @@
 ## 中文 README
 
-[English](README_EN.md)
+[English](#english) <a id="chinese"></a>
 
 # Obsidian移除括号插件
 
@@ -32,7 +32,7 @@
 
 ## English README
 
-[中文](README.md)
+[中文](#chinese) <a id="english"></a>
 
 # Obsidian Remove Brackets Plugin
 
