@@ -48,7 +48,6 @@ This plugin quickly removes `[[...]]` double brackets and their content from you
 2. Enable the plugin: Enable the plugin in your Obsidian settings.
 3. Usage:
     * Click the "x" icon in the ribbon.
-    * Alternatively, open the command palette (Ctrl/Cmd + P), search for "Remove Brackets and Content (Command)", and execute.
 
 ## Development
 
